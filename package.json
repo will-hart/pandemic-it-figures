@@ -1,0 +1,27 @@
+{
+  "name": "pandemic-it-figures",
+  "version": "0.1.0",
+  "description": "Generates figures using it-figures as a pandemic pre-hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pandemic-figures": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will-hart/pandemic-it-figures.git"
+  },
+  "author": "Will Hart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will-hart/pandemic-it-figures/issues"
+  },
+  "homepage": "https://github.com/will-hart/pandemic-it-figures#readme",
+  "dependencies": {
+    "get-stdin": "^6.0.0",
+    "it-figures": "^0.4.2",
+    "yaml-front-matter": "^4.0.0"
+  }
+}
