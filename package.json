@@ -1,6 +1,6 @@
 {
   "name": "pandemic-it-figures",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates figures using it-figures as a pandemic pre-hook",
   "main": "index.js",
   "scripts": {

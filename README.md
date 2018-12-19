@@ -38,6 +38,10 @@ In your pandemic recipe, specify this pandemic-mustache in your list of preproce
 
 ## Changelog
 
+### 0.1.1
+
+- Fix binary detection on Windows
+
 ### 0.1.0
 
-Initial release
+- Initial release
